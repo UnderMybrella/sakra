@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kornea-coroutines-core-jvm-1.0.0">
+    <output-path>$PROJECT_DIR$/core/build/libs</output-path>
+    <root id="archive" name="kornea-coroutines-core-jvm-1.0.0.jar" />
+  </artifact>
+</component>

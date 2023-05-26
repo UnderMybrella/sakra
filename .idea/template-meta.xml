@@ -1,0 +1,14 @@
+<template unencoded="false">
+  <roots>
+    <root index="0" path="" />
+    <root index="1" path="core" />
+    <root index="2" path="core/src/jsMain" />
+    <root index="3" path="core/src/jsTest" />
+    <root index="4" path="core/src/jvmMain" />
+    <root index="5" path="core/src/jvmTest" />
+    <root index="6" path="core/src/nativeMain" />
+    <root index="7" path="core/src/nativeTest" />
+    <root index="8" path="core/src/commonMain" />
+    <root index="9" path="core/src/commonTest" />
+  </roots>
+</template>
